@@ -1,0 +1,7 @@
+name = "libgcBuilder"
+uuid = "ead92eee-173a-11e9-15f0-8bf156dd69b2"
+authors = ["YuK_Ota <whitenightwinter@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
